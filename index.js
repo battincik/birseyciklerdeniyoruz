@@ -1,4 +1,4 @@
 for(let i=0; i<25;i++){
 console.log('çalıştı')
-  console.log('EDIT 1 ZA')
+  console.log('EDIT 12 ZA')
 }
