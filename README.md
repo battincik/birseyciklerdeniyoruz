@@ -1,2 +1,4 @@
 # birseyciklerdeniyoruz
 birseyciklerdeniyoruz
+
+çalışacak biliyorum
