@@ -7,3 +7,5 @@ sanırsam beceremedim
 
 
 bum
+
+eren bak çalıştı
