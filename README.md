@@ -10,4 +10,5 @@ bum
 
 eren bak çalıştı;
 
-bok çalıştı
+bok çalıştı22
+ 
