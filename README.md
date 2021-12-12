@@ -8,4 +8,6 @@ sanırsam beceremedim
 
 bum
 
-eren bak çalıştı
+eren bak çalıştı;
+
+bok çalıştı
