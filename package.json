@@ -1,0 +1,19 @@
+{
+  "name": "birseyciklerdeniyoruz",
+  "version": "1.0.0",
+  "description": "birseyciklerdeniyoruz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battincik/birseyciklerdeniyoruz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/battincik/birseyciklerdeniyoruz/issues"
+  },
+  "homepage": "https://github.com/battincik/birseyciklerdeniyoruz#readme"
+}
