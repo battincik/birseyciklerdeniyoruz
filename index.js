@@ -1,6 +1,5 @@
 const moment = require('moment');
 
-for(let i=0; i<10;i++){
-  console.log('ÇALIŞIYOR :D')
+for(let i=0; i<5;i++){
   console.log(moment().format('LLL'))
 }
